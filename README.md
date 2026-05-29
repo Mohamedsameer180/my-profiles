@@ -10,6 +10,10 @@
 
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" alt="coding-animation" width="600"/>
+</div>
+
 ---
 
 ## 🧑‍💻 About Me
