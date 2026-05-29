@@ -8,16 +8,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedsameer27)
 [![Email](https://img.shields.io/badge/Email-mohamedsameer2702005%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamedsameer2702005@gmail.com)
 
-
-## 🎨 UI / Design
-
-<div align="center">
-  <img src="https://via.placeholder.com/900x400.png?text=UI+Design+Mockup" alt="UI mockup" width="900"/>
-</div>
-
-- **Tools:** Figma · Tailwind CSS · Framer Motion
-- **Highlights:** Responsive, component-driven, accessible, supports dark/light mode
-
 </div>
 
 <div align="center">
