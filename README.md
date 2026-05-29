@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
 class MohamedSameer:
@@ -42,8 +42,9 @@ class MohamedSameer:
     def motto(self):
         return "Build fast. Ship smart. Learn always. 🚀"
 
-me = MohamedSameer()
-print(me.motto())
+if __name__ == "__main__":
+  me = MohamedSameer()
+  print(me.motto())
 ```
 
 <br clear="right"/>
@@ -170,13 +171,15 @@ print(me.motto())
 
 <div align="center">
 
-| Project | Stack | Highlights |
-|--------|-------|------------|
-| [🤖 **AI Portfolio Generator**](https://github.com/MohamedSameer27) | Python · Flask · HTML · CSS · JS | Auto-generates professional portfolio content & layouts from user input; responsive UI with dynamic backend integration |
-| [📚 **Learning Management System**](https://github.com/MohamedSameer27) | React · Node.js · Express · MongoDB · Tailwind | Full-featured LMS with course management, student records, assignments & secure authentication |
-| [✈️ **Airline Reservation System**](https://github.com/MohamedSameer27) | React · Node.js · Express · MongoDB · Tailwind | End-to-end flight search, seat selection, booking management & ticket confirmation system |
-| [📞 **VOIP Communication System**](https://github.com/MohamedSameer27) | Python · Socket Programming · Networking | Real-time voice-over-IP system using TCP/UDP sockets and communication protocol design |
-| [🎙️ **AI Voice Assistant**](https://github.com/MohamedSameer27) | Python · Speech Recognition · AI APIs | Voice-command assistant with speech processing, task automation & interactive AI-driven responses |
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" width="100%"/>
+
+| Project                                                                 | Stack                                          | Highlights                                                                                                              |
+| ----------------------------------------------------------------------- | ---------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| [🤖 **AI Portfolio Generator**](https://github.com/MohamedSameer27)     | Python · Flask · HTML · CSS · JS               | Auto-generates professional portfolio content & layouts from user input; responsive UI with dynamic backend integration |
+| [📚 **Learning Management System**](https://github.com/MohamedSameer27) | React · Node.js · Express · MongoDB · Tailwind | Full-featured LMS with course management, student records, assignments & secure authentication                          |
+| [✈️ **Airline Reservation System**](https://github.com/MohamedSameer27) | React · Node.js · Express · MongoDB · Tailwind | End-to-end flight search, seat selection, booking management & ticket confirmation system                               |
+| [📞 **VOIP Communication System**](https://github.com/MohamedSameer27)  | Python · Socket Programming · Networking       | Real-time voice-over-IP system using TCP/UDP sockets and communication protocol design                                  |
+| [🎙️ **AI Voice Assistant**](https://github.com/MohamedSameer27)         | Python · Speech Recognition · AI APIs          | Voice-command assistant with speech processing, task automation & interactive AI-driven responses                       |
 
 </div>
 
@@ -186,15 +189,17 @@ print(me.motto())
 
 <div align="center">
 
-| 🏅 | Achievement | Details |
-|----|-------------|---------|
-| 🎓 | **IBM Naan Mudhalvan Internship** | LMS Development — EBPL Program, AdroIT Technologies (Dec 2025 – Feb 2026) |
-| 🥽 | **XR Technology Virtual Internship** | Unity Course — E16AI, Naan Mudhalvan (Jan 2026 – Feb 2026) |
-| 🐍 | **Python Certification** | CSC Computer Educational Institution, Kumbakonam |
-| 💻 | **C & C++ Certification** | CSC Computer Educational Institution, Kumbakonam |
-| ☕ | **Java Certification** | CSC Computer Educational Institution, Kumbakonam |
-| 🤖 | **Generative AI Hands-on** | LLMs (GPT-4, Gemini, Claude), RAG Pipelines, Prompt Engineering |
-| 🌐 | **5 Production-Grade Projects** | AI, Full-Stack, and Networking domains |
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px"/> &nbsp; _Lifelong learner. Builder. Achiever._
+
+| 🏅  | Achievement                          | Details                                                                                                  |
+| --- | ------------------------------------ | -------------------------------------------------------------------------------------------------------- |
+| 🎓  | **IBM Naan Mudhalvan Internship**    | LMS Development — EBPL Program, Adroit Technologies Innovative Solutions Pvt. Ltd. (Dec 2025 – Feb 2026) |
+| 🥽  | **XR Technology Virtual Internship** | Unity Course — E16AI, Naan Mudhalvan (Jan 2026 – Feb 2026)                                               |
+| 🐍  | **Python Certification**             | CSC Computer Educational Institution, Kumbakonam                                                         |
+| 💻  | **C & C++ Certification**            | CSC Computer Educational Institution, Kumbakonam                                                         |
+| ☕  | **Java Certification**               | CSC Computer Educational Institution, Kumbakonam                                                         |
+| 🤖  | **Generative AI Hands-on**           | LLMs (GPT-4, Gemini, Claude), RAG Pipelines, Prompt Engineering                                          |
+| 🌐  | **5 Production-Grade Projects**      | AI, Full-Stack, and Networking domains                                                                   |
 
 </div>
 
@@ -204,16 +209,24 @@ print(me.motto())
 
 <div align="center">
 
-| Degree | Institution | Year | Score |
-|--------|-------------|------|-------|
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"/>
+
+| Degree                                 | Institution                                           | Year        | Score      |
+| -------------------------------------- | ----------------------------------------------------- | ----------- | ---------- |
 | 🎓 B.E. Computer Science & Engineering | Aalim Muhammed Salegh College of Engineering, Chennai | 2022 – 2026 | CGPA: 7.68 |
-| 📘 Higher Secondary (12th) | Tan Academy Matric Hr. Sec. School, Kumbakonam | 2023 | 63.4% |
+| 📘 Higher Secondary (12th)             | Tan Academy Matric Hr. Sec. School, Kumbakonam        | 2023        | 63.4%      |
 
 </div>
 
 ---
 
 ## 📚 Currently Learning
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60px"/>
+  <br/>
+  <em>Always building. Always learning.</em>
+</div>
 
 ```
 🧠 Generative AI  → RAG Pipelines, LLM Fine-tuning, Vector Databases
@@ -227,7 +240,9 @@ print(me.motto())
 
 <div align="center">
 
-*"Build fast. Ship smart. Learn always."* — **Mohamed Sameer S**
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%"/>
+
+_"Build fast. Ship smart. Learn always."_ — **Mohamed Sameer S**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedsameer27)
 [![Gmail](https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamedsameer2702005@gmail.com)
