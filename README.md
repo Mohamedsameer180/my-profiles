@@ -11,14 +11,15 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" alt="coding-animation" width="600"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding-animation" width="700"/>
 </div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/c
+ode.gif"/>
 
 ```python
 class MohamedSameer:
